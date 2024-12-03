@@ -5,12 +5,32 @@
       "PackagePath": "staticwebassets\\SisMed.b0v3nxekmq.bundle.scp.css"
     },
     {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\fonteawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fonteawesome.min.css"
+    },
+    {
       "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
       "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\site.js",
@@ -255,6 +275,66 @@
     {
       "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SisMed.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -95,3 +95,12 @@ c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\refint\SisMed.dll
 c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\SisMed.pdb
 c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\SisMed.genruntimeconfig.cache
 c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\ref\SisMed.dll
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\SisMed.sourcelink.json
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\xad7ql8pdt-upvfw3tve8.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\qgy0ze02t3-vm77v644vc.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\vaeejw1se1-1dvioj2731.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\9rpz94dr6i-etqzn9ty0g.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\v12wv6xl10-dd6z7egasc.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\t1l4tdn3mk-v5dkq0ivw8.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\1hwaxtji0h-au0k0t20r3.gz
+c:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\compressed\3xzse84mlf-akp8kdn8vu.gz

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BTHhFfMgsKhvpxIBTH+5JiGkqo7oyGN8iib9D9D1m+c=",
+  "Hash": "yo53RUcAjq3ysFx+hWlhx+f5zo4w3vek2f6fW7Kq3p4=",
   "Source": "SisMed",
   "BasePath": "_content/SisMed",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\1hwaxtji0h-au0k0t20r3.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint=au0k0t20r3}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jbao1u1wca",
+      "Integrity": "PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.svg"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\2ee0z86btn-b9sayid5wm.gz",
@@ -141,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\3xzse84mlf-akp8kdn8vu.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint=akp8kdn8vu}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "beu5s09mbc",
+      "Integrity": "I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.svg"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\3ziip058s6-47otxtyo56.gz",
@@ -351,6 +393,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\9rpz94dr6i-etqzn9ty0g.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint=etqzn9ty0g}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ozflalpjl6",
+      "Integrity": "NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\c2j85c9pq2-4v8eqarkd7.gz",
@@ -920,6 +983,27 @@
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\qgy0ze02t3-vm77v644vc.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "css/fonteawesome.min#[.{fingerprint=vm77v644vc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\fonteawesome.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gh7kgghy8s",
+      "Integrity": "5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\fonteawesome.min.css"
+    },
+    {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\qn5idom8rx-0j3bgjxly4.gz",
       "SourceId": "SisMed",
       "SourceType": "Discovered",
@@ -1002,6 +1086,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\t1l4tdn3mk-v5dkq0ivw8.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint=v5dkq0ivw8}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uylw9gzdm5",
+      "Integrity": "ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.svg"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\t5yg8g6xwn-06098lyss8.gz",
@@ -1107,6 +1212,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\v12wv6xl10-dd6z7egasc.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "js/jquery.min#[.{fingerprint=dd6z7egasc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wh9m6vk8u6",
+      "Integrity": "lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\vaeejw1se1-1dvioj2731.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "js/adminlte.min#[.{fingerprint=1dvioj2731}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\adminlte.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ver610w7e9",
+      "Integrity": "RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\adminlte.min.js"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\virjboifii-b0v3nxekmq.gz",
@@ -1233,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\xad7ql8pdt-upvfw3tve8.gz",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "css/adminlte.min#[.{fingerprint=upvfw3tve8}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\adminlte.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "s5tvaxrmxh",
+      "Integrity": "YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\adminlte.min.css"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\xlnv6jwncx-c2oey78nd0.gz",
@@ -1403,6 +1571,48 @@
       "OriginalItemSpec": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SisMed.bundle.scp.css"
     },
     {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\adminlte.min.css",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "css/adminlte.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upvfw3tve8",
+      "Integrity": "rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\adminlte.min.css"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\fonteawesome.min.css",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "css/fonteawesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vm77v644vc",
+      "Integrity": "mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\fonteawesome.min.css"
+    },
+    {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\site.css",
       "SourceId": "SisMed",
       "SourceType": "Discovered",
@@ -1443,6 +1653,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\adminlte.min.js",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "js/adminlte.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1dvioj2731",
+      "Integrity": "u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\adminlte.min.js"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etqzn9ty0g",
+      "Integrity": "fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\jquery.min.js",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
       "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\site.js",
@@ -2724,9 +2997,920 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otjz39eo9p",
+      "Integrity": "5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v5dkq0ivw8",
+      "Integrity": "o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "totad59w05",
+      "Integrity": "zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5wh9ughv7",
+      "Integrity": "+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6fdyj7j1sx",
+      "Integrity": "jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dbm23ce279",
+      "Integrity": "edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "au0k0t20r3",
+      "Integrity": "vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gaagixs38h",
+      "Integrity": "6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hp61lh7kro",
+      "Integrity": "y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "40m2n68m7w",
+      "Integrity": "5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hh74dlnyy",
+      "Integrity": "NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akp8kdn8vu",
+      "Integrity": "lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76ds2gje4f",
+      "Integrity": "r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jba8vm33uh",
+      "Integrity": "P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Identity": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "SisMed",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\",
+      "BasePath": "_content/SisMed",
+      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k51ry5602j",
+      "Integrity": "mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff2"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/adminlte.min.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\xad7ql8pdt-upvfw3tve8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008191417"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122078"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE="
+        }
+      ]
+    },
+    {
+      "Route": "css/adminlte.min.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\adminlte.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1396747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE="
+        }
+      ]
+    },
+    {
+      "Route": "css/adminlte.min.css.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\xad7ql8pdt-upvfw3tve8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4="
+        }
+      ]
+    },
+    {
+      "Route": "css/adminlte.min.upvfw3tve8.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\xad7ql8pdt-upvfw3tve8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008191417"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122078"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upvfw3tve8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/adminlte.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE="
+        }
+      ]
+    },
+    {
+      "Route": "css/adminlte.min.upvfw3tve8.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\adminlte.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1396747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upvfw3tve8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/adminlte.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE="
+        }
+      ]
+    },
+    {
+      "Route": "css/adminlte.min.upvfw3tve8.css.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\xad7ql8pdt-upvfw3tve8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upvfw3tve8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/adminlte.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YEML8JL7nJ5bLK3OvKeicSuvnbMY14RwqqeJQDJvzt4="
+        }
+      ]
+    },
+    {
+      "Route": "css/fonteawesome.min.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\qgy0ze02t3-vm77v644vc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000075861023"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+        }
+      ]
+    },
+    {
+      "Route": "css/fonteawesome.min.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\fonteawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+        }
+      ]
+    },
+    {
+      "Route": "css/fonteawesome.min.css.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\qgy0ze02t3-vm77v644vc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/fonteawesome.min.vm77v644vc.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\qgy0ze02t3-vm77v644vc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000075861023"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vm77v644vc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/fonteawesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+        }
+      ]
+    },
+    {
+      "Route": "css/fonteawesome.min.vm77v644vc.css",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\css\\fonteawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vm77v644vc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/fonteawesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+        }
+      ]
+    },
+    {
+      "Route": "css/fonteawesome.min.vm77v644vc.css.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\qgy0ze02t3-vm77v644vc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vm77v644vc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/fonteawesome.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5EKPIrByqW0JTzxPNY3kSVSNDArwL8ciKNR+i1tyGVQ="
+        }
+      ]
+    },
     {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\2ee0z86btn-b9sayid5wm.gz",
@@ -3320,6 +4504,900 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "js/adminlte.min.1dvioj2731.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\vaeejw1se1-1dvioj2731.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000091299187"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10952"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1dvioj2731"
+        },
+        {
+          "Name": "label",
+          "Value": "js/adminlte.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw="
+        }
+      ]
+    },
+    {
+      "Route": "js/adminlte.min.1dvioj2731.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\adminlte.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1dvioj2731"
+        },
+        {
+          "Name": "label",
+          "Value": "js/adminlte.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw="
+        }
+      ]
+    },
+    {
+      "Route": "js/adminlte.min.1dvioj2731.js.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\vaeejw1se1-1dvioj2731.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1dvioj2731"
+        },
+        {
+          "Name": "label",
+          "Value": "js/adminlte.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04="
+        }
+      ]
+    },
+    {
+      "Route": "js/adminlte.min.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\vaeejw1se1-1dvioj2731.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000091299187"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10952"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw="
+        }
+      ]
+    },
+    {
+      "Route": "js/adminlte.min.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\adminlte.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u2yoem2HtOCQCnsp3fO9sj5kUrL+7hOAfm8es18AFjw="
+        }
+      ]
+    },
+    {
+      "Route": "js/adminlte.min.js.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\vaeejw1se1-1dvioj2731.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzHGqzzPxZ93XgMVE1S7XCaODpJ5b+ZH+gBqdEPby04="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.etqzn9ty0g.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\9rpz94dr6i-etqzn9ty0g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044994376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22224"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etqzn9ty0g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.etqzn9ty0g.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etqzn9ty0g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.etqzn9ty0g.js.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\9rpz94dr6i-etqzn9ty0g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etqzn9ty0g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\9rpz94dr6i-etqzn9ty0g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044994376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22224"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\9rpz94dr6i-etqzn9ty0g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFIj9DzF2she+hcn6VgOvypEPiAaXX/b3wywRC7MWUU="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.dd6z7egasc.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\v12wv6xl10-dd6z7egasc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032016392"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.dd6z7egasc.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.dd6z7egasc.js.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\v12wv6xl10-dd6z7egasc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\v12wv6xl10-dd6z7egasc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032016392"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\v12wv6xl10-dd6z7egasc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lLsIWTkJwYEuzqSxAC2MVI1koBrS1Mfl5NDdjXLwnnc="
         }
       ]
     },
@@ -21878,6 +23956,1884 @@
         {
           "Name": "integrity",
           "Value": "sha256-97N7fde/hQULQrXiMzv8TwiiTd+hefbmQuwaLIu4xro="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.6fdyj7j1sx.woff2",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fdyj7j1sx"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.eot",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.j5wh9ughv7.woff",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5wh9ughv7"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.otjz39eo9p.eot",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otjz39eo9p"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\t1l4tdn3mk-v5dkq0ivw8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003841352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260324"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.svg.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\t1l4tdn3mk-v5dkq0ivw8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.totad59w05.ttf",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "totad59w05"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.ttf",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.v5dkq0ivw8.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\t1l4tdn3mk-v5dkq0ivw8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003841352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260324"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5dkq0ivw8"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.v5dkq0ivw8.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5dkq0ivw8"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.v5dkq0ivw8.svg.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\t1l4tdn3mk-v5dkq0ivw8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5dkq0ivw8"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-brands-400.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ym+FcKuzgzuC94GNHg+YNyEgu/34MenBe1RXN2JmQ8U="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.woff",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-brands-400.woff2",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.40m2n68m7w.woff2",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "40m2n68m7w"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.au0k0t20r3.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\1hwaxtji0h-au0k0t20r3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026525199"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37699"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au0k0t20r3"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.au0k0t20r3.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au0k0t20r3"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.au0k0t20r3.svg.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\1hwaxtji0h-au0k0t20r3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au0k0t20r3"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.dbm23ce279.eot",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbm23ce279"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.eot",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.gaagixs38h.ttf",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gaagixs38h"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.hp61lh7kro.woff",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp61lh7kro"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-regular-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\1hwaxtji0h-au0k0t20r3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026525199"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37699"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.svg.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\1hwaxtji0h-au0k0t20r3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PzPFQ+NgFaw9qar/1+iAcZUqJn/SL8oTCKW2ELGNYGY="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.ttf",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.woff",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-regular-400.woff2",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.3hh74dlnyy.eot",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hh74dlnyy"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.76ds2gje4f.ttf",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76ds2gje4f"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.akp8kdn8vu.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\3xzse84mlf-akp8kdn8vu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003843995"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260145"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp8kdn8vu"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.akp8kdn8vu.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "918991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp8kdn8vu"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.akp8kdn8vu.svg.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\3xzse84mlf-akp8kdn8vu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp8kdn8vu"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.eot",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.jba8vm33uh.woff",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jba8vm33uh"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.k51ry5602j.woff2",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k51ry5602j"
+        },
+        {
+          "Name": "label",
+          "Value": "webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\3xzse84mlf-akp8kdn8vu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003843995"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260145"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.svg",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "918991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.svg.gz",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\obj\\Debug\\net9.0\\compressed\\3xzse84mlf-akp8kdn8vu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I9W9P9rjNSUp+5VEb6LsTDz45YmwODMRYstMBUxclxQ="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.ttf",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.woff",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
+        }
+      ]
+    },
+    {
+      "Route": "webfonts/fa-solid-900.woff2",
+      "AssetFile": "c:\\workspace-visual-studio-code\\SisMed\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc="
         }
       ]
     }

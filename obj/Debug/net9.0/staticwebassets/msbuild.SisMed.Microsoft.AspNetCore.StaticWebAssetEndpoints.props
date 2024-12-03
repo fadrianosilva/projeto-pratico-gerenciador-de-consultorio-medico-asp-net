@@ -1,5 +1,29 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SisMed/css/adminlte.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\adminlte.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1396747"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/css/adminlte.min.upvfw3tve8.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\adminlte.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"upvfw3tve8"},{"Name":"integrity","Value":"sha256-rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE="},{"Name":"label","Value":"_content/SisMed/css/adminlte.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1396747"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rhU0oslUDWrWDxTY4JxI2a2OdRtG7YSf3v5zcRbcySE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/css/fonteawesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\fonteawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mUZM63G8m73Mcidfrv5E\u002BY61y7a12O5mW4ezU3bxqW4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"59305"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mUZM63G8m73Mcidfrv5E\u002BY61y7a12O5mW4ezU3bxqW4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/css/fonteawesome.min.vm77v644vc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\fonteawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vm77v644vc"},{"Name":"integrity","Value":"sha256-mUZM63G8m73Mcidfrv5E\u002BY61y7a12O5mW4ezU3bxqW4="},{"Name":"label","Value":"_content/SisMed/css/fonteawesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"59305"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mUZM63G8m73Mcidfrv5E\u002BY61y7a12O5mW4ezU3bxqW4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SisMed/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -23,6 +47,42 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 20:22:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/js/adminlte.min.1dvioj2731.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\adminlte.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1dvioj2731"},{"Name":"integrity","Value":"sha256-u2yoem2HtOCQCnsp3fO9sj5kUrL\u002B7hOAfm8es18AFjw="},{"Name":"label","Value":"_content/SisMed/js/adminlte.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46369"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u2yoem2HtOCQCnsp3fO9sj5kUrL\u002B7hOAfm8es18AFjw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/js/adminlte.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\adminlte.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u2yoem2HtOCQCnsp3fO9sj5kUrL\u002B7hOAfm8es18AFjw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"46369"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u2yoem2HtOCQCnsp3fO9sj5kUrL\u002B7hOAfm8es18AFjw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/js/bootstrap.bundle.min.etqzn9ty0g.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"etqzn9ty0g"},{"Name":"integrity","Value":"sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="},{"Name":"label","Value":"_content/SisMed/js/bootstrap.bundle.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83253"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/js/bootstrap.bundle.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"83253"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/js/jquery.min.dd6z7egasc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dd6z7egasc"},{"Name":"integrity","Value":"sha256-/xUj\u002B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="},{"Name":"label","Value":"_content/SisMed/js/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"89501"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/xUj\u002B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/js/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/xUj\u002B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"89501"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/xUj\u002B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SisMed/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -767,6 +827,186 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RcWSlggzNbHeGNaVGTV0w613wwNVnBojJ8xCMzp5Gh0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1124"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RcWSlggzNbHeGNaVGTV0w613wwNVnBojJ8xCMzp5Gh0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 20:23:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.6fdyj7j1sx.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6fdyj7j1sx"},{"Name":"integrity","Value":"sha256-jqh5F1SRWomKMQDmPjKXim0XY75t\u002BOc6OdOpDWkc3u8="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76736"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jqh5F1SRWomKMQDmPjKXim0XY75t\u002BOc6OdOpDWkc3u8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"134294"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u00225CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.j5wh9ughv7.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j5wh9ughv7"},{"Name":"integrity","Value":"sha256-\u002BSF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-brands-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"89988"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022\u002BSF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.otjz39eo9p.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"otjz39eo9p"},{"Name":"integrity","Value":"sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-brands-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134294"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u00225CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o7mBd4AhTK8B6K7CC83CMFof80oV\u002BugezQkj35zVzQo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"747927"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022o7mBd4AhTK8B6K7CC83CMFof80oV\u002BugezQkj35zVzQo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.totad59w05.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"totad59w05"},{"Name":"integrity","Value":"sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"133988"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"133988"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.v5dkq0ivw8.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v5dkq0ivw8"},{"Name":"integrity","Value":"sha256-o7mBd4AhTK8B6K7CC83CMFof80oV\u002BugezQkj35zVzQo="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-brands-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"747927"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022o7mBd4AhTK8B6K7CC83CMFof80oV\u002BugezQkj35zVzQo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BSF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"89988"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022\u002BSF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jqh5F1SRWomKMQDmPjKXim0XY75t\u002BOc6OdOpDWkc3u8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76736"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jqh5F1SRWomKMQDmPjKXim0XY75t\u002BOc6OdOpDWkc3u8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.40m2n68m7w.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"40m2n68m7w"},{"Name":"integrity","Value":"sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13224"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00225CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.au0k0t20r3.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"au0k0t20r3"},{"Name":"integrity","Value":"sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-regular-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"144714"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.dbm23ce279.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dbm23ce279"},{"Name":"integrity","Value":"sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-regular-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34034"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"34034"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.gaagixs38h.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gaagixs38h"},{"Name":"integrity","Value":"sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33736"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00226HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.hp61lh7kro.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hp61lh7kro"},{"Name":"integrity","Value":"sha256-y56eaTGSQTzeKx8hwdwdRLb\u002BeyfMK0WOizWdGPn/j04="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-regular-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16276"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022y56eaTGSQTzeKx8hwdwdRLb\u002BeyfMK0WOizWdGPn/j04=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"144714"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33736"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00226HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y56eaTGSQTzeKx8hwdwdRLb\u002BeyfMK0WOizWdGPn/j04="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16276"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022y56eaTGSQTzeKx8hwdwdRLb\u002BeyfMK0WOizWdGPn/j04=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13224"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00225CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.3hh74dlnyy.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3hh74dlnyy"},{"Name":"integrity","Value":"sha256-NzwE/SQY9cd\u002B6knVFHMQWPGQepT/O05dfD5XZ\u002Bi1PYs="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-solid-900.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"203030"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022NzwE/SQY9cd\u002B6knVFHMQWPGQepT/O05dfD5XZ\u002Bi1PYs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.76ds2gje4f.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"76ds2gje4f"},{"Name":"integrity","Value":"sha256-r2OXUD/O\u002B9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"202744"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022r2OXUD/O\u002B9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.akp8kdn8vu.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"akp8kdn8vu"},{"Name":"integrity","Value":"sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh\u002BSEfw="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-solid-900.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"918991"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh\u002BSEfw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NzwE/SQY9cd\u002B6knVFHMQWPGQepT/O05dfD5XZ\u002Bi1PYs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"203030"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022NzwE/SQY9cd\u002B6knVFHMQWPGQepT/O05dfD5XZ\u002Bi1PYs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.jba8vm33uh.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jba8vm33uh"},{"Name":"integrity","Value":"sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-solid-900.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101648"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.k51ry5602j.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k51ry5602j"},{"Name":"integrity","Value":"sha256-mDS4KtJuKjdYPSJnahLdLrD\u002BfIA1aiEU0NsaqLOJlTc="},{"Name":"label","Value":"_content/SisMed/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78268"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022mDS4KtJuKjdYPSJnahLdLrD\u002BfIA1aiEU0NsaqLOJlTc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh\u002BSEfw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"918991"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh\u002BSEfw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r2OXUD/O\u002B9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"202744"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022r2OXUD/O\u002B9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"101648"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SisMed/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mDS4KtJuKjdYPSJnahLdLrD\u002BfIA1aiEU0NsaqLOJlTc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78268"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022mDS4KtJuKjdYPSJnahLdLrD\u002BfIA1aiEU0NsaqLOJlTc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Feb 2022 20:33:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
