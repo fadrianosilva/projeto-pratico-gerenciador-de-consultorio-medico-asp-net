@@ -1,0 +1,35 @@
+[33mcommit a519bafe9417aa5f7997f641b55ade04d6a3ebe1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: fadrianosilva <f.adriano.silva@outlook.com>
+Date:   Wed Dec 4 16:14:20 2024 -0300
+
+    Adicionando o DbContext
+
+[33mcommit a07c4219f84fdab0207fccd7d61e72503a83521f[m
+Author: fadrianosilva <f.adriano.silva@outlook.com>
+Date:   Wed Dec 4 16:06:19 2024 -0300
+
+    Mapeando a Entidade Medico
+
+[33mcommit 15ea3b955cfe1f0bf589f5c558c83742fb26ab47[m
+Author: fadrianosilva <f.adriano.silva@outlook.com>
+Date:   Wed Dec 4 10:29:54 2024 -0300
+
+    Criação da Entidade Medico e do Arquivo .gitiginore
+
+[33mcommit 2869eb729c6f0db1497c61e387aca5fddf7b8db5[m
+Author: fadrianosilva <f.adriano.silva@outlook.com>
+Date:   Tue Dec 3 18:11:24 2024 -0300
+
+    Adiconando e Ajustando Template AdminLTE no projeto
+
+[33mcommit 0bac2513804f66137aaf5f6a961b97e0e0a80813[m
+Author: fadrianosilva <f.adriano.silva@outlook.com>
+Date:   Tue Dec 3 17:27:11 2024 -0300
+
+    Criação inicial do projeto
+
+[33mcommit b726f21f407ac3b0068ed1ca33d95abf13d8c100[m
+Author: Flavio Adriano Silva <f.adriano.silva@outlook.com>
+Date:   Tue Dec 3 17:01:45 2024 -0300
+
+    Initial commit
