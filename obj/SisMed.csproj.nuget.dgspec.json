@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {}
+    "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {}
   },
   "projects": {
-    "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {
+    "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
+        "projectUniqueName": "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
         "projectName": "SisMed",
-        "projectPath": "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
+        "projectPath": "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
         "packagesPath": "C:\\Users\\Flavio Adriano Silva\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace-visual-studio-code\\SisMed\\obj\\",
+        "outputPath": "C:\\workspace-visual-studio-code\\SisMed\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Flavio Adriano Silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Flavio Adriano Silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +49,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
