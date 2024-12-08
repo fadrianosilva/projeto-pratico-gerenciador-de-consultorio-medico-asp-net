@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SisMed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92322574fa564492cd37ca4ce5e8cbeee67232db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d473329a8f77e9312e9bad2e368d9277baee8f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SisMed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SisMed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
