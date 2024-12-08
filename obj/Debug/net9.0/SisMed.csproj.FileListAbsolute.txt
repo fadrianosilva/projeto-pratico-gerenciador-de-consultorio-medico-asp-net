@@ -227,3 +227,4 @@ C:\workspace-visual-studio-code\SisMed\bin\Debug\net9.0\runtimes\win\lib\net6.0\
 C:\workspace-visual-studio-code\SisMed\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\SisMed.csproj.AssemblyReference.cache
 C:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\SisMed.csproj.Up2Date
+C:\workspace-visual-studio-code\SisMed\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

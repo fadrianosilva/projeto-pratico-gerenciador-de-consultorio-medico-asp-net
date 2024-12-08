@@ -14,14 +14,18 @@ namespace SisMed.Controllers
         }
 
 
-        public IActionResult Index()
+        public IActionResult Index(string filtro)
         {
-            var medicos = _context.Medicos.Select(x => new ListarMedicosViewModel
+            var medicos = _context.Medicos
+                .Where(x => x.Nome.Contains(filtro) || x.CRM.Contains(filtro))
+                .Select(x => new ListarMedicosViewModel
             {
                 Id = x.Id,
                 CRM = x.CRM,
                 Nome = x.Nome
             });
+
+            ViewBag.Filtro = filtro;
 
             return View(medicos);
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {}
+    "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {}
   },
   "projects": {
-    "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {
+    "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
+        "projectUniqueName": "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
         "projectName": "SisMed",
-        "projectPath": "c:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
+        "projectPath": "C:\\workspace-visual-studio-code\\SisMed\\SisMed.csproj",
         "packagesPath": "C:\\Users\\Flavio Adriano Silva\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace-visual-studio-code\\SisMed\\obj\\",
+        "outputPath": "C:\\workspace-visual-studio-code\\SisMed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
